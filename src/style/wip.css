@@ -1,0 +1,13 @@
+.content {
+  text-align: center;
+  color: #ffffff;
+
+  display: flex;
+  flex-flow: column;
+  gap: 14px;
+}
+
+.content a {
+  color: #ffffff;
+  font-size: 14px;
+}
